@@ -7,7 +7,7 @@ const path = require('path');
 
 const SHONAN_URL = 'https://s.lmes.jp/landing-qr/2007227153-vjoL5182?uLand=0UuHe7';
 const SAKAI_ID = '2007227107-GgA3P6zw';
-const IMG_W = 585, IMG_H = 11688;
+const IMG_W = 585, IMG_H = 11260;
 
 function serve() {
   const root = path.join(__dirname, '..', 'public');
